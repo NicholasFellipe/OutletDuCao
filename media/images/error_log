@@ -1,0 +1,79 @@
+[21-Mar-2019 13:18:31 UTC] TimThumb Debug line 1049 [0.003248 : 0.000000]: Starting new request from 187.123.122.51 to /media/images/thumb.php?src=190321101436ii.jpg.jpg&w=70&h=70&zc=1
+[21-Mar-2019 13:18:31 UTC] TimThumb Debug line 1049 [0.003474 : 0.000221]: File tracking last clean doesn't exist. Creating ./cache/timthumb_cacheLastCleanTime.touch
+[21-Mar-2019 13:18:31 UTC] TimThumb Debug line 1049 [0.003605 : 0.000126]: Could not find the local image: 
+[21-Mar-2019 13:18:31 UTC] TimThumb Debug line 1049 [0.003261 : 0.000000]: Starting new request from 187.123.122.51 to /media/images/thumb.php?src=190321101705macaco.jpg.jpg&w=70&h=70&zc=1
+[21-Mar-2019 13:18:31 UTC] TimThumb Debug line 1049 [0.003458 : 0.000191]: Could not find the local image: 
+[21-Mar-2019 13:18:35 UTC] TimThumb Debug line 1049 [0.002924 : 0.000000]: Starting new request from 187.123.122.51 to /media/images/thumb.php?src=190321101705macaco.jpg.jpg&w=180&h=180&zc=1
+[21-Mar-2019 13:18:35 UTC] TimThumb Debug line 1049 [0.003100 : 0.000170]: Could not find the local image: 
+[21-Mar-2019 13:18:53 UTC] TimThumb Debug line 1049 [0.003212 : 0.000000]: Starting new request from 187.123.122.51 to /media/images/thumb.php?src=190321101852macaco.jpg.jpg&w=180&h=180&zc=1
+[21-Mar-2019 13:18:53 UTC] TimThumb Debug line 1049 [0.003473 : 0.000256]: Could not find the local image: 
+[21-Mar-2019 13:19:09 UTC] TimThumb Debug line 1049 [0.003151 : 0.000000]: Starting new request from 187.123.122.51 to /media/images/thumb.php?src=190321101436ii.jpg.jpg&w=70&h=70&zc=1
+[21-Mar-2019 13:19:09 UTC] TimThumb Debug line 1049 [0.003342 : 0.000186]: Could not find the local image: 
+[21-Mar-2019 13:19:09 UTC] TimThumb Debug line 1049 [0.003451 : 0.000000]: Starting new request from 187.123.122.51 to /media/images/thumb.php?src=190321101852macaco.jpg.jpg&w=70&h=70&zc=1
+[21-Mar-2019 13:19:09 UTC] TimThumb Debug line 1049 [0.003667 : 0.000211]: Could not find the local image: 
+[21-Mar-2019 13:19:11 UTC] TimThumb Debug line 1049 [0.003764 : 0.000000]: Starting new request from 187.123.122.51 to /media/images/thumb.php?src=190321101436ii.jpg.jpg&w=180&h=180&zc=1
+[21-Mar-2019 13:19:11 UTC] TimThumb Debug line 1049 [0.004004 : 0.000231]: Could not find the local image: 
+[21-Mar-2019 13:20:47 UTC] TimThumb Debug line 1049 [0.003184 : 0.000000]: Starting new request from 187.123.122.51 to /media/images/thumb.php?src=190321102047ii.jpg.jpg&w=180&h=180&zc=1
+[21-Mar-2019 13:20:47 UTC] TimThumb Debug line 1049 [0.003413 : 0.000222]: Could not find the local image: 
+[21-Mar-2019 13:21:59 UTC] TimThumb Debug line 1049 [0.003017 : 0.000000]: Starting new request from 187.123.122.51 to /media/images/thumb.php?src=190321102159ii.jpg.jpg&w=180&h=180&zc=1
+[21-Mar-2019 13:21:59 UTC] TimThumb Debug line 1049 [0.003229 : 0.000205]: Could not find the local image: 
+[21-Mar-2019 20:03:57 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:03:57 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:03:57 UTC] PHP Warning:  imagecreatefromjpeg(): '/home1/agnald39/outletducao/1903211702imagemteste.jpg.jpg' is not a valid JPEG file in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:04:06 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:04:06 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:04:06 UTC] PHP Warning:  imagecreatefromjpeg(): '/home1/agnald39/outletducao/1903211702imagemteste.jpg.jpg' is not a valid JPEG file in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:04:41 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:04:41 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:04:41 UTC] PHP Warning:  imagecreatefromjpeg(): '/home1/agnald39/outletducao/media/images/1903211702imagemteste.jpg.jpg' is not a valid JPEG file in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:04:44 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:04:44 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:04:44 UTC] PHP Warning:  imagecreatefromjpeg(): '/home1/agnald39/outletducao/media/images/1903211702imagemteste.jpg.jpg' is not a valid JPEG file in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:05:05 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:05:05 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:05:05 UTC] PHP Warning:  imagecreatefromjpeg(): '/home1/agnald39/outletducao/media/images/1903211702imagemteste.jpg.jpg' is not a valid JPEG file in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:06:07 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:06:07 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:06:07 UTC] PHP Warning:  imagecreatefromjpeg(): '/home1/agnald39/outletducao/media/images/1903211702imagemteste.jpg.jpg' is not a valid JPEG file in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:07:05 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:07:05 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:07:05 UTC] PHP Warning:  imagecreatefromjpeg(): '/home1/agnald39/outletducao/media/images/1903211702imagemteste.jpg.jpg' is not a valid JPEG file in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:07:38 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:07:38 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:07:38 UTC] PHP Warning:  imagecreatefromjpeg(): '/home1/agnald39/outletducao/media/images/1903211702imagemteste.jpg.jpg' is not a valid JPEG file in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:07:44 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:07:44 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:07:44 UTC] PHP Warning:  imagecreatefromjpeg(): '/home1/agnald39/outletducao/media/images/1903211702imagemteste.jpg.jpg' is not a valid JPEG file in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:07:47 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:07:47 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:07:47 UTC] PHP Warning:  imagecreatefromjpeg(): '/home1/agnald39/outletducao/media/images/1903211702imagemteste.jpg.jpg' is not a valid JPEG file in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:07:48 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:07:48 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:07:48 UTC] PHP Warning:  imagecreatefromjpeg(): '/home1/agnald39/outletducao/media/images/1903211702imagemteste.jpg.jpg' is not a valid JPEG file in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:08:25 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:08:25 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:08:25 UTC] PHP Warning:  imagecreatefromjpeg(): '/home1/agnald39/outletducao/media/images/1903211702imagemteste.jpg.jpg' is not a valid JPEG file in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:08:26 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:08:26 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:08:26 UTC] PHP Warning:  imagecreatefromjpeg(): '/home1/agnald39/outletducao/media/images/1903211702imagemteste.jpg.jpg' is not a valid JPEG file in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:09:16 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:09:16 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:09:16 UTC] PHP Warning:  imagecreatefromjpeg(): '/home1/agnald39/outletducao/media/images/1903211702imagemteste.jpg.jpg' is not a valid JPEG file in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:13:44 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:13:44 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home1/agnald39/outletducao/media/images/thumb.php on line 378
+[21-Mar-2019 20:13:44 UTC] PHP Warning:  imagecreatefromjpeg(): '/home1/agnald39/outletducao/media/images/1903211702imagemteste.jpg.jpg' is not a valid JPEG file in /home1/agnald39/outletducao/media/images/thumb.php on line 378

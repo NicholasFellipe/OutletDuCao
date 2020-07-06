@@ -1,0 +1,840 @@
+[19-Mar-2019 21:46:13 America/Sao_Paulo] PHP Warning:  include(/home1/agnald39/outletducao/lib/composer/../../model/Template.class.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/lib/composer/ClassLoader.php on line 444
+[19-Mar-2019 21:46:13 America/Sao_Paulo] PHP Warning:  include(/home1/agnald39/outletducao/lib/composer/../../model/Template.class.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/lib/composer/ClassLoader.php on line 444
+[19-Mar-2019 21:46:13 America/Sao_Paulo] PHP Warning:  include(): Failed opening '/home1/agnald39/outletducao/lib/composer/../../model/Template.class.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/lib/composer/ClassLoader.php on line 444
+[19-Mar-2019 21:46:13 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Template' not found in /home1/agnald39/outletducao/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/agnald39/outletducao/index.php on line 15
+[19-Mar-2019 21:46:14 America/Sao_Paulo] PHP Warning:  include(/home1/agnald39/outletducao/lib/composer/../../model/Template.class.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/lib/composer/ClassLoader.php on line 444
+[19-Mar-2019 21:46:14 America/Sao_Paulo] PHP Warning:  include(/home1/agnald39/outletducao/lib/composer/../../model/Template.class.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/lib/composer/ClassLoader.php on line 444
+[19-Mar-2019 21:46:14 America/Sao_Paulo] PHP Warning:  include(): Failed opening '/home1/agnald39/outletducao/lib/composer/../../model/Template.class.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/lib/composer/ClassLoader.php on line 444
+[19-Mar-2019 21:46:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Template' not found in /home1/agnald39/outletducao/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/agnald39/outletducao/index.php on line 15
+[23-Mar-2019 09:08:23 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 09:08:23 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 09:08:40 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 09:08:40 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 09:10:41 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 09:10:41 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 09:16:11 America/Sao_Paulo] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home1/agnald39/outletducao/view/carrinho.tpl"  on line 25 "$('#frete').load('{http://outletducao.com.br/frete.php?cepcliente=' + CEP_CLIENTE + '&pesofrete=' + PESO_FRETE);"  - Unexpected ":", expected one of: "}" <-- 
+  thrown in /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 25
+[23-Mar-2019 09:16:14 America/Sao_Paulo] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home1/agnald39/outletducao/view/carrinho.tpl"  on line 25 "$('#frete').load('{http://outletducao.com.br/frete.php?cepcliente=' + CEP_CLIENTE + '&pesofrete=' + PESO_FRETE);"  - Unexpected ":", expected one of: "}" <-- 
+  thrown in /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 25
+[23-Mar-2019 09:18:16 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 09:18:16 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 09:21:12 America/Sao_Paulo] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home1/agnald39/outletducao/view/carrinho.tpl"  on line 25 "$('#frete').load('{http://outletducao.com.br/frete.php?cepcliente=' + CEP_CLIENTE + '&pesofrete=' + PESO_FRETE);"  - Unexpected ":", expected one of: "}" <-- 
+  thrown in /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 25
+[23-Mar-2019 09:23:07 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 09:23:07 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 09:23:29 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 09:23:29 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 09:23:42 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 09:23:42 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 09:23:42 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 09:23:42 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 09:23:57 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 09:23:57 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 09:25:10 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 09:25:10 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 13:57:14 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 13:57:14 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 14:08:40 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 14:08:40 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 14:08:44 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 14:08:44 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 14:10:04 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[23-Mar-2019 14:10:04 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 10:31:56 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 10:31:56 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 10:33:30 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 10:33:30 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 10:38:12 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 10:38:12 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 10:40:46 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 10:40:46 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 10:41:01 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 10:41:01 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 10:41:02 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 10:41:02 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 10:41:32 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 10:41:32 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 10:45:24 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 10:45:24 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 10:45:39 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 10:45:39 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 10:48:13 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 10:48:13 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 10:51:34 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 10:51:34 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 10:52:52 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 10:52:52 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 15:44:59 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 15:44:59 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 15:51:18 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 15:51:18 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 15:54:03 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 15:54:03 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 15:57:59 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 15:57:59 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 16:00:16 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 16:00:16 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 16:06:18 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 16:06:18 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 16:07:08 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 16:07:08 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 16:07:08 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 16:07:08 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 16:21:44 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-Mar-2019 16:21:44 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[25-Mar-2019 15:39:42 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[25-Mar-2019 15:39:42 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[25-Mar-2019 15:44:30 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[25-Mar-2019 15:44:30 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[25-Mar-2019 15:45:04 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[25-Mar-2019 15:45:04 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[25-Mar-2019 15:57:32 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[25-Mar-2019 15:57:32 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[25-Mar-2019 15:57:44 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[25-Mar-2019 15:57:44 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[25-Mar-2019 20:25:39 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[25-Mar-2019 20:25:39 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[25-Mar-2019 20:30:39 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[25-Mar-2019 20:31:50 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[25-Mar-2019 20:32:00 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:23:51 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:25:07 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:29:00 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:29:45 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:29:54 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:31:27 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:31:58 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:33:00 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:33:44 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:34:31 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:35:48 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:35:48 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:41:06 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:42:48 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:43:25 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:43:34 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:43:34 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:44:25 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:44:54 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:44:54 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:45:48 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:45:49 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:46:21 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:46:21 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:47:35 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:47:41 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:48:24 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:48:25 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:48:52 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:49:03 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:49:21 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:49:23 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:49:37 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:49:39 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:49:40 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:49:53 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:49:54 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:49:55 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:49:56 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:49:57 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:50:02 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:50:03 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:50:06 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:50:08 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:50:23 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:50:26 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:51:00 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:51:38 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:51:43 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:52:05 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:52:07 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 18:52:44 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 19:44:22 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 20:42:26 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 21:10:34 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 21:10:34 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 21:10:51 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 21:11:32 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 21:11:33 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 21:14:31 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 21:14:31 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 21:18:45 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 21:18:46 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 21:21:17 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 21:22:17 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 21:22:36 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 21:25:02 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 21:25:02 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 21:25:58 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 21:26:09 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 22:05:46 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 22:05:47 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 22:06:19 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 23:06:18 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 23:06:43 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 23:08:20 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 23:08:21 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 23:40:14 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 23:40:15 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 23:40:26 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 23:40:51 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 23:41:36 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[26-Mar-2019 23:42:05 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[27-Mar-2019 09:59:21 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[27-Mar-2019 09:59:21 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[27-Mar-2019 10:24:22 America/Sao_Paulo] PHP Fatal error:  Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[27-Mar-2019 10:39:10 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/controller/frete.php(7): Correios->__construct('12518493', '0.015')
+#1 /home1/agnald39/outletducao/model/Rotas.class.php(38): include('/home1/agnald39...')
+#2 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9a97ff902899_20090006(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#6 /home1/agnald39/outletducao/lib/smarty/smarty/libs/ in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[27-Mar-2019 10:43:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/controller/frete.php(9): Correios->__construct('12518493', '0.015')
+#1 /home1/agnald39/outletducao/model/Rotas.class.php(38): include('/home1/agnald39...')
+#2 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9a97ff902899_20090006(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#6 /home1/agnald39/outletducao/lib/smarty/smarty/libs/ in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[27-Mar-2019 10:43:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/controller/frete.php(9): Correios->__construct('12518493', '0.015')
+#1 /home1/agnald39/outletducao/model/Rotas.class.php(38): include('/home1/agnald39...')
+#2 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9a97ff902899_20090006(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#6 /home1/agnald39/outletducao/lib/smarty/smarty/libs/ in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[27-Mar-2019 10:43:43 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/controller/frete.php(9): Correios->__construct('12518493', '0.100')
+#1 /home1/agnald39/outletducao/model/Rotas.class.php(38): include('/home1/agnald39...')
+#2 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9a97ff902899_20090006(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#6 /home1/agnald39/outletducao/lib/smarty/smarty/libs/ in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[27-Mar-2019 10:43:44 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/controller/frete.php(9): Correios->__construct('12518493', '0.100')
+#1 /home1/agnald39/outletducao/model/Rotas.class.php(38): include('/home1/agnald39...')
+#2 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9a97ff902899_20090006(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#6 /home1/agnald39/outletducao/lib/smarty/smarty/libs/ in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[27-Mar-2019 10:45:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/controller/frete.php(9): Correios->__construct('12518493', '0.100')
+#1 /home1/agnald39/outletducao/model/Rotas.class.php(38): include('/home1/agnald39...')
+#2 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9a97ff902899_20090006(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#6 /home1/agnald39/outletducao/lib/smarty/smarty/libs/ in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[27-Mar-2019 10:45:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/controller/frete.php(9): Correios->__construct('12518493', '0.100')
+#1 /home1/agnald39/outletducao/model/Rotas.class.php(38): include('/home1/agnald39...')
+#2 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9a97ff902899_20090006(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#6 /home1/agnald39/outletducao/lib/smarty/smarty/libs/ in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[27-Mar-2019 10:45:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/controller/frete.php(9): Correios->__construct('12518493', '0.100')
+#1 /home1/agnald39/outletducao/model/Rotas.class.php(38): include('/home1/agnald39...')
+#2 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9a97ff902899_20090006(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#6 /home1/agnald39/outletducao/lib/smarty/smarty/libs/ in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[27-Mar-2019 10:45:57 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/controller/frete.php(9): Correios->__construct('12518493', '0.100')
+#1 /home1/agnald39/outletducao/model/Rotas.class.php(38): include('/home1/agnald39...')
+#2 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9a97ff902899_20090006(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#6 /home1/agnald39/outletducao/lib/smarty/smarty/libs/ in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[27-Mar-2019 10:46:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/controller/frete.php(9): Correios->__construct('12518493', '0.100')
+#1 /home1/agnald39/outletducao/model/Rotas.class.php(38): include('/home1/agnald39...')
+#2 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9a97ff902899_20090006(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#6 /home1/agnald39/outletducao/lib/smarty/smarty/libs/ in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[27-Mar-2019 10:46:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/controller/frete.php(9): Correios->__construct('12518493', '0.100')
+#1 /home1/agnald39/outletducao/model/Rotas.class.php(38): include('/home1/agnald39...')
+#2 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9a97ff902899_20090006(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#6 /home1/agnald39/outletducao/lib/smarty/smarty/libs/ in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[27-Mar-2019 10:48:19 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 10:48:19 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 10:48:32 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 10:48:32 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 10:50:41 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 10:50:41 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 10:51:35 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 10:51:35 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 10:53:08 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 10:53:08 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 10:53:53 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 10:53:53 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 10:55:00 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 10:55:00 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 12:29:08 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 12:29:08 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 12:29:23 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 12:29:23 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 12:38:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/controller/carrinho.php(14): Correios->__construct('12518493', '0.100')
+#1 /home1/agnald39/outletducao/model/Rotas.class.php(38): include('/home1/agnald39...')
+#2 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9a97ff902899_20090006(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#6 /home1/agnald39/outletducao/lib/smarty/smarty/l in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[27-Mar-2019 12:49:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/controller/carrinho.php(14): Correios->__construct('12518493', '0.100')
+#1 /home1/agnald39/outletducao/model/Rotas.class.php(38): include('/home1/agnald39...')
+#2 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9a97ff902899_20090006(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#6 /home1/agnald39/outletducao/lib/smarty/smarty/l in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[27-Mar-2019 16:46:12 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 16:46:12 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 16:46:13 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 16:46:13 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 16:59:12 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 16:59:12 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 16:59:12 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 16:59:12 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 17:06:29 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 17:06:29 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 17:12:53 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 17:12:53 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 17:12:53 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 17:12:53 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 17:13:05 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 17:13:05 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 17:13:08 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 17:13:08 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 17:13:21 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 17:13:21 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 17:17:15 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 17:17:15 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 17:17:20 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 17:17:20 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 17:46:11 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 17:46:11 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 17:46:47 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 17:46:47 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 19:54:50 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[27-Mar-2019 19:54:50 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[30-Mar-2019 09:17:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Rotas::pag_car() in /home1/agnald39/outletducao/controller/carrinho.php:37
+Stack trace:
+#0 /home1/agnald39/outletducao/model/Rotas.class.php(38): include()
+#1 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9bdab059a7b8_10289866(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#6 /home1/agnald39/ou in /home1/agnald39/outletducao/controller/carrinho.php on line 37
+[30-Mar-2019 09:17:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Rotas::pag_car() in /home1/agnald39/outletducao/controller/carrinho.php:37
+Stack trace:
+#0 /home1/agnald39/outletducao/model/Rotas.class.php(38): include()
+#1 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9bdab059a7b8_10289866(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#6 /home1/agnald39/ou in /home1/agnald39/outletducao/controller/carrinho.php on line 37
+[30-Mar-2019 09:17:46 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Rotas::pag_car() in /home1/agnald39/outletducao/controller/carrinho.php:37
+Stack trace:
+#0 /home1/agnald39/outletducao/model/Rotas.class.php(38): include()
+#1 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9bdab059a7b8_10289866(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#6 /home1/agnald39/ou in /home1/agnald39/outletducao/controller/carrinho.php on line 37
+[30-Mar-2019 09:20:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Rotas::pag_car() in /home1/agnald39/outletducao/controller/carrinho.php:37
+Stack trace:
+#0 /home1/agnald39/outletducao/model/Rotas.class.php(38): include()
+#1 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9bdab059a7b8_10289866(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#6 /home1/agnald39/ou in /home1/agnald39/outletducao/controller/carrinho.php on line 37
+[30-Mar-2019 09:20:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Rotas::pag_car() in /home1/agnald39/outletducao/controller/carrinho.php:37
+Stack trace:
+#0 /home1/agnald39/outletducao/model/Rotas.class.php(38): include()
+#1 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9bdab059a7b8_10289866(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#6 /home1/agnald39/ou in /home1/agnald39/outletducao/controller/carrinho.php on line 37
+[30-Mar-2019 09:20:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Rotas::pag_car() in /home1/agnald39/outletducao/controller/carrinho.php:37
+Stack trace:
+#0 /home1/agnald39/outletducao/model/Rotas.class.php(38): include()
+#1 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9bdab059a7b8_10289866(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#6 /home1/agnald39/ou in /home1/agnald39/outletducao/controller/carrinho.php on line 37
+[30-Mar-2019 09:20:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Rotas::pag_car() in /home1/agnald39/outletducao/controller/carrinho.php:37
+Stack trace:
+#0 /home1/agnald39/outletducao/model/Rotas.class.php(38): include()
+#1 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9bdab059a7b8_10289866(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#6 /home1/agnald39/ou in /home1/agnald39/outletducao/controller/carrinho.php on line 37
+[30-Mar-2019 09:20:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Rotas::pag_car() in /home1/agnald39/outletducao/controller/carrinho.php:37
+Stack trace:
+#0 /home1/agnald39/outletducao/model/Rotas.class.php(38): include()
+#1 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9bdab059a7b8_10289866(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#6 /home1/agnald39/ou in /home1/agnald39/outletducao/controller/carrinho.php on line 37
+[30-Mar-2019 09:20:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Rotas::pag_car() in /home1/agnald39/outletducao/controller/carrinho.php:37
+Stack trace:
+#0 /home1/agnald39/outletducao/model/Rotas.class.php(38): include()
+#1 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9bdab059a7b8_10289866(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#6 /home1/agnald39/ou in /home1/agnald39/outletducao/controller/carrinho.php on line 37
+[30-Mar-2019 09:20:43 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Rotas::pag_car() in /home1/agnald39/outletducao/controller/carrinho.php:37
+Stack trace:
+#0 /home1/agnald39/outletducao/model/Rotas.class.php(38): include()
+#1 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9bdab059a7b8_10289866(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#6 /home1/agnald39/ou in /home1/agnald39/outletducao/controller/carrinho.php on line 37
+[30-Mar-2019 09:21:29 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/view/compile/501ad28f8a8bf0f3abdc0f1d01358b1d642b53b7_0.file.frete.tpl.php(177): Correios->__construct('', '1.610')
+#1 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f5f49339fc9_60777630(Object(Smarty_Internal_Template))
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_interna in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 09:22:11 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/view/compile/501ad28f8a8bf0f3abdc0f1d01358b1d642b53b7_0.file.frete.tpl.php(177): Correios->__construct('12502480', '1.610')
+#1 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f5f49339fc9_60777630(Object(Smarty_Internal_Template))
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 09:29:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/view/compile/501ad28f8a8bf0f3abdc0f1d01358b1d642b53b7_0.file.frete.tpl.php(177): Correios->__construct('', '1.610')
+#1 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f5f49339fc9_60777630(Object(Smarty_Internal_Template))
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_interna in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 09:29:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/view/compile/501ad28f8a8bf0f3abdc0f1d01358b1d642b53b7_0.file.frete.tpl.php(177): Correios->__construct('', '1.610')
+#1 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f5f49339fc9_60777630(Object(Smarty_Internal_Template))
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_interna in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 09:29:23 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Rotas::pag_car() in /home1/agnald39/outletducao/controller/carrinho.php:37
+Stack trace:
+#0 /home1/agnald39/outletducao/model/Rotas.class.php(38): include()
+#1 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9bdab059a7b8_10289866(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#6 /home1/agnald39/ou in /home1/agnald39/outletducao/controller/carrinho.php on line 37
+[30-Mar-2019 09:29:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/view/compile/501ad28f8a8bf0f3abdc0f1d01358b1d642b53b7_0.file.frete.tpl.php(177): Correios->__construct('', '1.610')
+#1 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f5f49339fc9_60777630(Object(Smarty_Internal_Template))
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_interna in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 09:30:23 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/view/compile/501ad28f8a8bf0f3abdc0f1d01358b1d642b53b7_0.file.frete.tpl.php(177): Correios->__construct(NULL, '1.610')
+#1 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f615f18f8d9_12129358(Object(Smarty_Internal_Template))
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_inter in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 09:30:29 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/view/compile/501ad28f8a8bf0f3abdc0f1d01358b1d642b53b7_0.file.frete.tpl.php(177): Correios->__construct(NULL, '1.610')
+#1 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f615f18f8d9_12129358(Object(Smarty_Internal_Template))
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_inter in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 09:33:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/view/compile/501ad28f8a8bf0f3abdc0f1d01358b1d642b53b7_0.file.frete.tpl.php(177): Correios->__construct(NULL, '1.610')
+#1 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f615f18f8d9_12129358(Object(Smarty_Internal_Template))
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_inter in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 09:34:01 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Rotas::pag_car() in /home1/agnald39/outletducao/controller/carrinho.php:37
+Stack trace:
+#0 /home1/agnald39/outletducao/model/Rotas.class.php(38): include()
+#1 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9bdab059a7b8_10289866(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#6 /home1/agnald39/ou in /home1/agnald39/outletducao/controller/carrinho.php on line 37
+[30-Mar-2019 09:36:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Rotas::pag_car() in /home1/agnald39/outletducao/controller/carrinho.php:37
+Stack trace:
+#0 /home1/agnald39/outletducao/model/Rotas.class.php(38): include()
+#1 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9bdab059a7b8_10289866(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#6 /home1/agnald39/ou in /home1/agnald39/outletducao/controller/carrinho.php on line 37
+[30-Mar-2019 09:36:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/view/compile/501ad28f8a8bf0f3abdc0f1d01358b1d642b53b7_0.file.frete.tpl.php(177): Correios->__construct(NULL, '1.610')
+#1 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f62cb3e58d0_91116589(Object(Smarty_Internal_Template))
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_inter in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 09:36:37 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/view/compile/501ad28f8a8bf0f3abdc0f1d01358b1d642b53b7_0.file.frete.tpl.php(177): Correios->__construct(NULL, '1.610')
+#1 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f62cb3e58d0_91116589(Object(Smarty_Internal_Template))
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_inter in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 09:43:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/view/compile/501ad28f8a8bf0f3abdc0f1d01358b1d642b53b7_0.file.frete.tpl.php(177): Correios->__construct(NULL, '1.610')
+#1 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f62cb3e58d0_91116589(Object(Smarty_Internal_Template))
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_inter in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 09:43:47 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/view/compile/501ad28f8a8bf0f3abdc0f1d01358b1d642b53b7_0.file.frete.tpl.php(178): Correios->__construct('12502480', '1.610')
+#1 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f6483af6e37_97139325(Object(Smarty_Internal_Template))
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 10:09:43 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home1/agnald39/outletducao/model/Carrinho.class.php on line 32
+[30-Mar-2019 10:09:43 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/view/compile/501ad28f8a8bf0f3abdc0f1d01358b1d642b53b7_0.file.frete.tpl.php(178): Correios->__construct('', '1.610')
+#1 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f6483af6e37_97139325(Object(Smarty_Internal_Template))
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_interna in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 10:09:50 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Rotas::pag_car() in /home1/agnald39/outletducao/controller/carrinho.php:37
+Stack trace:
+#0 /home1/agnald39/outletducao/model/Rotas.class.php(38): include()
+#1 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9bdab059a7b8_10289866(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#6 /home1/agnald39/ou in /home1/agnald39/outletducao/controller/carrinho.php on line 37
+[30-Mar-2019 10:10:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/view/compile/501ad28f8a8bf0f3abdc0f1d01358b1d642b53b7_0.file.frete.tpl.php(178): Correios->__construct('', '0.300')
+#1 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f6483af6e37_97139325(Object(Smarty_Internal_Template))
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_interna in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 10:10:57 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/view/compile/501ad28f8a8bf0f3abdc0f1d01358b1d642b53b7_0.file.frete.tpl.php(178): Correios->__construct('12502480', '0.300')
+#1 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f6483af6e37_97139325(Object(Smarty_Internal_Template))
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 10:14:44 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/view/compile/501ad28f8a8bf0f3abdc0f1d01358b1d642b53b7_0.file.frete.tpl.php(178): Correios->__construct('12502480', '0.300')
+#1 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f6bc477ea43_19227063(Object(Smarty_Internal_Template))
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 10:14:46 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/view/compile/501ad28f8a8bf0f3abdc0f1d01358b1d642b53b7_0.file.frete.tpl.php(178): Correios->__construct('12502480', '0.300')
+#1 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f6bc477ea43_19227063(Object(Smarty_Internal_Template))
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 10:27:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Rotas::pag_car() in /home1/agnald39/outletducao/controller/carrinho.php:37
+Stack trace:
+#0 /home1/agnald39/outletducao/model/Rotas.class.php(38): include()
+#1 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f6bc47671f8_21446457(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#6 /home1/agnald39/ou in /home1/agnald39/outletducao/controller/carrinho.php on line 37
+[30-Mar-2019 10:32:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Rotas::pag_car() in /home1/agnald39/outletducao/controller/carrinho.php:37
+Stack trace:
+#0 /home1/agnald39/outletducao/model/Rotas.class.php(38): include()
+#1 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f6bc47671f8_21446457(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#6 /home1/agnald39/ou in /home1/agnald39/outletducao/controller/carrinho.php on line 37
+[30-Mar-2019 10:32:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/controller/frete.php(32): Correios->__construct('', '0.300')
+#1 /home1/agnald39/outletducao/model/Rotas.class.php(38): include('/home1/agnald39...')
+#2 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f6bc47671f8_21446457(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#6 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplug in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 10:32:25 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/controller/frete.php(32): Correios->__construct('12502480', '0.300')
+#1 /home1/agnald39/outletducao/model/Rotas.class.php(38): include('/home1/agnald39...')
+#2 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f6bc47671f8_21446457(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#6 /home1/agnald39/outletducao/lib/smarty/smarty/libs in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 10:32:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/controller/frete.php(32): Correios->__construct('12502480', '0.300')
+#1 /home1/agnald39/outletducao/model/Rotas.class.php(38): include('/home1/agnald39...')
+#2 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f6bc47671f8_21446457(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#6 /home1/agnald39/outletducao/lib/smarty/smarty/libs in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 10:32:58 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/controller/frete.php(32): Correios->__construct('12502480', '0.300')
+#1 /home1/agnald39/outletducao/model/Rotas.class.php(38): include('/home1/agnald39...')
+#2 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f6bc47671f8_21446457(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#6 /home1/agnald39/outletducao/lib/smarty/smarty/libs in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 10:32:58 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/controller/frete.php(32): Correios->__construct('12502480', '0.300')
+#1 /home1/agnald39/outletducao/model/Rotas.class.php(38): include('/home1/agnald39...')
+#2 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f6bc47671f8_21446457(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#6 /home1/agnald39/outletducao/lib/smarty/smarty/libs in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 10:33:41 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/view/compile/501ad28f8a8bf0f3abdc0f1d01358b1d642b53b7_0.file.frete.tpl.php(178): Correios->__construct('12502480', '0.300')
+#1 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f6bc477ea43_19227063(Object(Smarty_Internal_Template))
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 10:34:43 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Rotas::pag_car() in /home1/agnald39/outletducao/controller/carrinho.php:37
+Stack trace:
+#0 /home1/agnald39/outletducao/model/Rotas.class.php(38): include()
+#1 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f6bc47671f8_21446457(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#6 /home1/agnald39/ou in /home1/agnald39/outletducao/controller/carrinho.php on line 37
+[30-Mar-2019 10:35:37 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Rotas::pag_car() in /home1/agnald39/outletducao/controller/carrinho.php:37
+Stack trace:
+#0 /home1/agnald39/outletducao/model/Rotas.class.php(38): include()
+#1 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f6bc47671f8_21446457(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#6 /home1/agnald39/ou in /home1/agnald39/outletducao/controller/carrinho.php on line 37
+[30-Mar-2019 10:35:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Rotas::pag_car() in /home1/agnald39/outletducao/controller/carrinho.php:37
+Stack trace:
+#0 /home1/agnald39/outletducao/model/Rotas.class.php(38): include()
+#1 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f6bc47671f8_21446457(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#6 /home1/agnald39/ou in /home1/agnald39/outletducao/controller/carrinho.php on line 37
+[30-Mar-2019 10:36:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Rotas::pag_car() in /home1/agnald39/outletducao/controller/carrinho.php:37
+Stack trace:
+#0 /home1/agnald39/outletducao/model/Rotas.class.php(38): include()
+#1 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f6bc47671f8_21446457(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#6 /home1/agnald39/ou in /home1/agnald39/outletducao/controller/carrinho.php on line 37
+[30-Mar-2019 10:36:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Rotas::pag_car() in /home1/agnald39/outletducao/controller/carrinho.php:37
+Stack trace:
+#0 /home1/agnald39/outletducao/model/Rotas.class.php(38): include()
+#1 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f6bc47671f8_21446457(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#6 /home1/agnald39/ou in /home1/agnald39/outletducao/controller/carrinho.php on line 37
+[30-Mar-2019 10:39:23 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Rotas::pag_car() in /home1/agnald39/outletducao/controller/carrinho.php:37
+Stack trace:
+#0 /home1/agnald39/outletducao/model/Rotas.class.php(38): include()
+#1 /home1/agnald39/outletducao/view/compile/06d07bd4786e6b50ec7fb08add3aec8922ef9dbf_0.file.index.tpl.php(176): Rotas::get_Pagina()
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f6bc47671f8_21446457(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#6 /home1/agnald39/ou in /home1/agnald39/outletducao/controller/carrinho.php on line 37
+[30-Mar-2019 10:39:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/view/compile/501ad28f8a8bf0f3abdc0f1d01358b1d642b53b7_0.file.frete.tpl.php(178): Correios->__construct('', '2.220')
+#1 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f6bc477ea43_19227063(Object(Smarty_Internal_Template))
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_interna in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 10:39:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/view/compile/501ad28f8a8bf0f3abdc0f1d01358b1d642b53b7_0.file.frete.tpl.php(178): Correios->__construct('', '2.220')
+#1 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f6bc477ea43_19227063(Object(Smarty_Internal_Template))
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_interna in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 10:39:46 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'SITE_CEP' in /home1/agnald39/outletducao/model/Correios.class.php:25
+Stack trace:
+#0 /home1/agnald39/outletducao/view/compile/501ad28f8a8bf0f3abdc0f1d01358b1d642b53b7_0.file.frete.tpl.php(178): Correios->__construct('12502480', '2.220')
+#1 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_5c9f6bc477ea43_19227063(Object(Smarty_Internal_Template))
+#2 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#3 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#4 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 1)
+#5 /home1/agnald39/outletducao/lib/smarty/smarty/libs/sysplugins/smarty in /home1/agnald39/outletducao/model/Correios.class.php on line 25
+[30-Mar-2019 10:46:58 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[30-Mar-2019 10:46:58 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:31:52 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:31:52 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:44:44 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:44:44 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:44:58 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:44:58 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:33 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:33 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:36 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:36 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:37 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:37 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:38 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:38 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:38 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:38 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:39 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:39 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:39 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:39 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:40 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:40 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:40 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:40 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:40 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:40 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:40 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:40 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:41 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:41 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:41 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:41 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:41 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:41 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:42 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:42 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:42 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:42 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:42 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:42 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:43 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:43 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:43 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:43 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:43 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:43 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:46 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:45:46 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:46:09 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:46:09 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:49:47 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:49:47 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:54:26 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:54:26 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:54:29 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:54:29 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:54:31 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:54:31 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:55:04 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:55:04 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:55:07 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:55:07 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:55:08 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 09:55:08 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 10:03:18 America/Sao_Paulo] PHP Warning:  require_once(../lib/autoload.php): failed to open stream: No such file or directory in /home1/agnald39/outletducao/controller/frete.php on line 2
+[01-Apr-2019 10:03:18 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../lib/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/agnald39/outletducao/controller/frete.php on line 2
+[24-May-2019 12:56:21 America/Sao_Paulo] PHP Warning:  A non-numeric value encountered in /home1/agnald39/outletducao/model/Paginacao.class.php on line 65
+[24-May-2019 12:56:21 America/Sao_Paulo] PHP Warning:  A non-numeric value encountered in /home1/agnald39/outletducao/model/Paginacao.class.php on line 71
+[24-May-2019 12:56:21 America/Sao_Paulo] PHP Warning:  A non-numeric value encountered in /home1/agnald39/outletducao/model/Paginacao.class.php on line 80
+[24-May-2019 12:56:21 America/Sao_Paulo] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-9,9' at line 1 in /home1/agnald39/outletducao/model/Conexao.class.php on line 86
